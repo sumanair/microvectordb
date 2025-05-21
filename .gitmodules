@@ -1,0 +1,3 @@
+[submodule "external/TinyPointers"]
+	path = external/TinyPointers
+	url = https://github.com/rodrigch18/TinyPointers.git
